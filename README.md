@@ -10,7 +10,7 @@ Efsane dizi Kurtlar Vadisi'nin konsey üyeleri ve yaptıkları mesleklerin bulun
 
 ## Canlı Demo
 
-[Kurtlar Vadisi Konseyi Demo](https://kv-konsey.vercel.app/)
+[Kurtlar Vadisi Konseyi Demo](https://council-of-wolves.vercel.app/)
 
 ## Özellikler
 - Oyuncuların detaylı profillerini görüntüleyin.
